@@ -1,0 +1,9 @@
+{
+  "name": "chess-server",
+  "version": "0.0.0",
+  "description": "ChessServer",
+  "main": "app.js",
+  "author": {
+    "name": "eleif"
+  }
+}
